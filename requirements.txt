@@ -1,0 +1,4 @@
+groq==1.1.1
+python-dotenv
+requests
+beautifulsoup4
